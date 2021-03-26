@@ -3,7 +3,7 @@
 [comment]: <>  (> ....)
 <h3> 👨 &nbsp;Sobre mim </h3>
 
- - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://www.unitoledo.br">Centro Universitário Unitoledo</a>.
+ - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://www.unitoledo.br">Centro Universitário Toledo</a>.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
