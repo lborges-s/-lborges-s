@@ -5,6 +5,7 @@
 
  - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://www.unitoledo.br">Centro Universitário Toledo</a>.
  -  💼 &nbsp; Trabalhando como **Desenvolvedor Flutter** na <a href="https://aemsoftware.com.br">AeM Software</a>
+ -  
  [comment]: <>  (- 🌱 &nbsp; Aprendendo mais sobre **Python e Backend**.)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
